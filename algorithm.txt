@@ -1,0 +1,15 @@
+Mariana Bolognani
+
+1. Output purpose.
+2. Input ask the user for their name.
+3. If users name is "Raenita" you ask them for their age,
+4.   a.   If their age is at at least (<=) 30,
+5.            Then output "You will find $100 on the floor today!"
+6.   b.   Otherwise if their age is at least(<=) 50
+7.            Then output "You will win a free car!"
+8.   c.   Otherwise their age is more than (>) 50
+9.            Then output "You will be forver healthy!"
+10. If users name is not Raenita
+11. Output "Your pet has been hit by a car."
+12. Output "Your house is flooded."
+13. Output "A piano will fall on you."
